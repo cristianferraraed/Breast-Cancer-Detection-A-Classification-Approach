@@ -1,6 +1,4 @@
-# Breast Cancer Detection - Classification - Pycaret
-
-**Complete Video Tutorial:** https://youtu.be/janK8osSKPs
+# Breast Cancer Detection: A Classification Approach
 
 # Dataset Information
 
@@ -34,7 +32,7 @@ Missing attribute values: none
 Class distribution: 357 benign, 212 malignant
 
 
-**Download link:** https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 
 # Libraries
 
